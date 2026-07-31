@@ -1,0 +1,2 @@
+# Root-level ignores (per-folder .gitignore also apply for backend/frontend specifics)
+.DS_Store

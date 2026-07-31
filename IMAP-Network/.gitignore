@@ -1,0 +1,19 @@
+# Secrets / local config
+.env
+
+# Local data (SQLite DB + Qdrant embedded store)
+data/
+
+# Virtualenvs
+.venv/
+new_venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.python-version
+
+# OS
+.DS_Store
